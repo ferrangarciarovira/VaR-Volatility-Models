@@ -28,3 +28,11 @@ We evaluate how these affect VaR estimation and risk management decisions based 
 - Backtesting of VaR predictions and comparison of model accuracy.
 
 ## Structure
+```text
+/data/              # Market data used for simulations
+/notebooks/         # Jupyter notebooks for each model or analysis step
+/models/            # Python code for each volatility model
+/results/           # Visualizations and model outputs
+/report/            # Final thesis document and LaTeX drafts
+main.py             # Script to execute full VaR analysis
+README.md           # Project overview and instructions
