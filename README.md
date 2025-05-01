@@ -1,4 +1,4 @@
-# From Volatility to Value at Risk: A Comparative Analysis Using Jump and Rough Volatility Models
+# Value at Risk: A Comparative Analysis Using Jump and Rough Volatility Models
 
 This repository contains the code and documentation for my Bachelor's Thesis in Economics and Advanced Quantitative Methods at Universitat Pompeu Fabra. The project focuses on estimating the Value at Risk (VaR) of financial instruments using the Black-Scholes model, while comparing how different volatility modeling approaches affect the VaR outcome.
 
