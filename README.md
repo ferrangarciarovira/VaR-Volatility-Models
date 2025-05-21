@@ -15,6 +15,7 @@ The goal is to analyze the predictive power, robustness, and practical implicati
 - Standard historical volatility
 - Jump Diffusion models
 - Rough / Fractional volatility models
+- SABR model
 
 We evaluate how these affect VaR estimation and risk management decisions based on real market data.
 
