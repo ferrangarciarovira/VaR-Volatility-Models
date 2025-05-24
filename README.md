@@ -31,7 +31,6 @@ We evaluate how these affect VaR estimation and risk management decisions based 
 ## Structure
 ```text
 /data/              # Market data used for simulations
-/models/            # Python code for each volatility model
 /notebooks/         # Jupyter notebooks for each model or analysis step
 /report/            # Final thesis document and LaTeX drafts
 /results/           # Visualizations and model outputs
