@@ -12,7 +12,7 @@ This repository contains the code and documentation for my Bachelor's Thesis in 
 
 The goal is to analyze the predictive power, robustness, and practical implications of estimating volatility using:
 
-- Standard historical volatility
+- Black Scholes
 - Jump Diffusion models
 - Rough / Fractional volatility models
 - SABR model
