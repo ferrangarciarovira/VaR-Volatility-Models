@@ -50,14 +50,16 @@ You must have **Python 3.9+** installed.
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/ferrangarciarovira/Premier-League-Betting-Analysis.git
-cd Premier-League-Betting-Analysis
+git clone https://github.com/ferrangarciarovira/VaR-Volatility-Models.git
+cd VaR-Volatility-Models
 ```
 
 ### 2. Create a virtual environment and activate it (Windows)
 ```bash
-python -m venv test_env
-.\test_env\Scripts\activate
+python -m venv env
+env\Scripts\activate         # Windows
+
+# source env/bin/activate   # Mac/Linux
 ```
 
 ### 3. Install dependencies
@@ -67,6 +69,7 @@ pip install -r requirements.txt
 
 ### 4. Run the notebook
 ```bash
+pip install notebook 
 jupyter notebook
 ```
 
