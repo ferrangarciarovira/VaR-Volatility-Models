@@ -54,8 +54,6 @@ README.md           # Project overview and instructions
 
 You must have **Python 3.9+** installed.
 
----
-
 ### 1. Clone the repository
 
 ```bash
