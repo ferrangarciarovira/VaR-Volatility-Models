@@ -54,7 +54,7 @@ git clone https://github.com/ferrangarciarovira/VaR-Volatility-Models.git
 cd VaR-Volatility-Models
 ```
 
-### 2. Create a virtual environment and activate it (Windows)
+### 2. Create a virtual environment and activate it
 ```bash
 python -m venv env
 env\Scripts\activate         # Windows
