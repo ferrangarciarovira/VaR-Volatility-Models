@@ -36,7 +36,7 @@ We evaluate how these affect VaR estimation based on real market data.
 /results/           # Visualizations and model outputs
 main.py             # Script to execute full VaR analysis
 README.md           # Project overview and instructions
-
+```
 ---
 
 ## How to Run This Project
