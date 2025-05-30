@@ -1,4 +1,4 @@
-# From Volatility to Value at Risk: A Comparative Analysis Using Jump, Rough, and SABR Volatility Models
+# From Volatility to Value at Risk: A Comparative Analysis Using Jump, SABR, and Rough Volatility Models
 
 This repository contains the code and documentation for my Bachelor's Thesis in Economics and Advanced Quantitative Methods at Universitat Pompeu Fabra. The project focuses on estimating the Value at Risk (VaR) of financial instruments using the Black-Scholes model, while comparing how different volatility modeling approaches affect the VaR outcome.
 
@@ -18,8 +18,8 @@ The goal is to analyze the predictive power, robustness, and practical implicati
 
 - Black Scholes
 - Jump Diffusion models
-- Rough / Fractional volatility models
 - SABR model
+- Rough / Fractional volatility models
 
 We evaluate how these affect VaR estimation based on real market data.
 
@@ -30,8 +30,8 @@ We evaluate how these affect VaR estimation based on real market data.
 - Theoretical derivation of VaR using the Black-Scholes framework.
 - Implementation of:
   - **Jump Diffusion Models (Merton and Kou)**
-  - **Rough Volatility (using fractional Brownian motion)**
   - **SABR Model**
+  - **Rough Volatility (using fractional Brownian motion)**
 - Empirical estimation of volatility using Python.
 - Sensitivity analysis and robustness checks of VaR predictions and model performance.
 
